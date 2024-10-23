@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\api",
+    "\\api\\Controllers",
+    "\\api\\Dtos",
+    "\\api\\Dtos\\Stock",
     "\\api\\Models"
   ],
-  "SelectedNode": "\\api\\Models\\Stock.cs",
+  "SelectedNode": "\\api\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
